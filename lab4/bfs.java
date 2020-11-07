@@ -1,6 +1,8 @@
 
 import java.util.Scanner;
-
+//Matthew Groover 
+//11/6/20
+//this program sets up the apply bfs based on user input
 public class bfs {
 	
 	 bfs con;

@@ -1,7 +1,9 @@
 
 
 import java.util.Scanner;
-
+//Matthew Groover
+//11/6/20
+//this program creates then searches for the shortest path to the largest node
 public class Dijkstras {
 	Dijkstras con;
 	Dijkstras con1;
