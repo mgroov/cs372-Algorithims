@@ -58,7 +58,7 @@ public class Dijkstras {
 		 System.out.println("Graph set up complete :)...");
 		 visited= new boolean[n+1]; //sets the visit array for bool
 		int a = dijkstras(A.con,0,n);//passing the length and the first node
-		 System.out.print("Output: " + a);
+		 System.out.println("Output: " + a);
 	}//of main
 	
 	public Dijkstras(int no){
